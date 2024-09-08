@@ -1,12 +1,8 @@
 # [Hizeros GitHub](https://github.com/Hizeros)
 
----
-
 Hi there👋, I’m [@Hizeros](https://github.com/Hizeros)
 
 Let's make sth happen. Code with me and reach me at hizeero984@gmail.com
-
----
 
 ## 🏆 Acheivements
 [![Spark Lab S1 #2 Place](https://spark-lab.city/api/badge?session=1&prize=2)](https://spark-lab.city)
